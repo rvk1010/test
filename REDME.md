@@ -6,3 +6,5 @@
 # everything OK
 # qu qu qu
 # da da da da
+# ha ha ha
+# i am best developer
